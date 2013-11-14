@@ -1,0 +1,95 @@
+.escudo_otra_competicion{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+    position: relative;
+    float: left;
+}
+.escudo_otra_competicion img{
+    display: block;
+    margin: 0 auto;
+}
+
+.sprite_otros_escudos { background: url('../img/escudos/sprite_escudos_otros.png') no-repeat top left;  } 
+.sprite_otros_escudos.escudo_60_alpha { background-position: 0px 0px; width: 60px; height: 60px;  } 
+.sprite_otros_escudos.ajax_thumb { background-position: 0px -90px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.anderlecht_thumb { background-position: 0px -115px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.anzhi_thumb { background-position: 0px -140px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.apoel_thumb { background-position: 0px -165px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.apollon_thumb { background-position: 0px -190px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.arsenal_thumb { background-position: 0px -215px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.austria-viena_thumb { background-position: 0px -240px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.atletico_thumb { background-position: 0px -265px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.az-alkmaar_thumb { background-position: 0px -65px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.basel_thumb { background-position: 0px -290px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.barcelona_thumb { background-position: 0px -315px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.leverkusen_thumb { background-position: 0px -340px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.bayern-munich_thumb { background-position: 0px -365px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.benfica_thumb { background-position: 0px -390px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.betis_thumb { background-position: 0px -415px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.celtic_thumb { background-position: 0px -465px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.cska-moscu_thumb { background-position: 0px -515px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.chelsea_thumb { background-position: 0px -540px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.copenhague_thumb { background-position: 0px -565px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.dinamo-kiev_thumb { background-position: 0px -590px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.dinamo-zagreb_thumb { background-position: 0px -615px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.dnipro_thumb { background-position: 0px -665px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.dortmund_thumb { background-position: 0px -440px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.eintracht-frankfurt_thumb { background-position: 0px -640px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.elfsborg_thumb { background-position: 0px -690px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.estoril_thumb { background-position: 0px -715px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.esbjerg_thumb { background-position: 0px -740px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.fiorentina_thumb { background-position: 0px -765px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.friburgo_thumb { background-position: 0px -790px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.galatasaray_thumb { background-position: 0px -815px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.genk_thumb { background-position: 0px -840px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.girondins_thumb { background-position: 0px -865px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.guimaraes_thumb { background-position: 0px -1965px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.fc-kuban_thumb { background-position: 0px -890px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.juventus_thumb { background-position: 0px -915px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.lazio_thumb { background-position: 0px -940px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.legia_thumb { background-position: 0px -965px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.ludogorets_thumb { background-position: 0px -990px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.maccabi-haifa_thumb { background-position: 0px -1015px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.maccabi_thumb { background-position: 0px -1065px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.manchester-city_thumb { background-position: 0px -1040px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.manchester-u_thumb { background-position: 0px -1115px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.maribor_thumb { background-position: 0px -1090px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.marsella_thumb { background-position: 0px -1240px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.milan_thumb { background-position: 0px -1140px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.napoli_thumb { background-position: 0px -1165px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.odessa_thumb { background-position: 0px -490px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.olympiacos_thumb { background-position: 0px -1190px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.o-lyon_thumb { background-position: 0px -1215px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.oporto_thumb { background-position: 0px -1265px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.pacos-de-ferreira_thumb { background-position: 0px -1290px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.pandurii_thumb { background-position: 0px -1315px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.paok_thumb { background-position: 0px -1340px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.psg_thumb { background-position: 0px -1390px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.psv_thumb { background-position: 0px -1365px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.rapid-viena_thumb { background-position: 0px -1415px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.real-madrid_thumb { background-position: 0px -1440px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.rijeka_thumb { background-position: 0px -1465px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.real-sociedad_thumb { background-position: 0px -1490px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.fc-rubin-kazan_thumb { background-position: 0px -1515px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.salzburgo_thumb { background-position: 0px -1540px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.sevilla_thumb { background-position: 0px -1565px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.shakhtar-donetsk_thumb { background-position: 0px -1590px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.shakhter-karagandy_thumb { background-position: 0px -1615px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.schalke-04_thumb { background-position: 0px -1640px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.sheriff_thumb { background-position: 0px -1665px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.slovan_thumb { background-position: 0px -1690px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.st-gallen_thumb { background-position: 0px -1715px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.standard-de-lieja_thumb { background-position: 0px -1740px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.steaua-de-bucarest_thumb { background-position: 0px -1765px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.swansea_thumb { background-position: 0px -1790px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.thun_thumb { background-position: 0px -1815px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.tottenham_thumb { background-position: 0px -1840px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.trabzonspor_thumb { background-position: 0px -1865px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.tromso_thumb { background-position: 0px -1890px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.viktoria-plzen_thumb { background-position: 0px -1915px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.valencia_thumb { background-position: 0px -1940px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.wigan_thumb { background-position: 0px -1990px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.zulte_thumb { background-position: 0px -2015px; width: 20px; height: 20px;  } 
+.sprite_otros_escudos.zenit_thumb { background-position: 0px -2040px; width: 20px; height: 20px;  } 
+

@@ -1,0 +1,26 @@
+#menu_login #box_idiomas .li{
+        text-align: center;
+    }
+    #menu_login #box_idiomas .li a{
+        padding: 3px 20px 0 20px;
+    }
+    #menu_login #box_idiomas .li.letra-grande{
+        padding-bottom: 10px;
+        padding-top: 0;
+    }
+    #menu_login #box_idiomas .li a.letra-grande{
+        font-size: 1.5em;
+        padding-top: 0;
+    }
+    #menu2 .li a{
+        padding: 6px 16px 10px !important;
+    }
+    #raya_separadora_zona{
+        left: 480px !important;
+    }
+
+    #menu_zonas {
+        left: 490px !important;
+    }
+
+

@@ -1,0 +1,92 @@
+2013/11/12 17:50:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/index.php?r=site/gii
+---
+2013/11/12 17:53:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "estadio".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('estadio')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/index.php?r=estadio
+---
+2013/11/12 18:21:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/index
+---
+2013/11/12 18:26:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "equipo".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('equipo')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('equipo')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/equipo')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/site/equipo?view=about
+HTTP_REFERER=http://localhost/futbol/
+---
+2013/11/12 18:26:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "liga".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('liga')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('liga')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/liga')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/site/liga?view=about
+HTTP_REFERER=http://localhost/futbol/site/equipo?view=about
+---
+2013/11/12 18:26:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "equipo".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('equipo')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('equipo')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/equipo')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/site/equipo?view=about
+HTTP_REFERER=http://localhost/futbol/site/liga?view=about
+---
+2013/11/12 18:26:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "liga".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('liga')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('liga')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/liga')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/site/liga?view=about
+HTTP_REFERER=http://localhost/futbol/site/equipo?view=about
+---
+2013/11/12 18:26:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "equipo".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('equipo')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('equipo')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/equipo')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/site/equipo?view=about
+HTTP_REFERER=http://localhost/futbol/site/liga?view=about
+---
+2013/11/12 18:26:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "equipo".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('equipo')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('equipo')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/equipo')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/site/equipo?view=about
+HTTP_REFERER=http://localhost/futbol/
+---
