@@ -16,12 +16,12 @@ $this->menu=array(
 );
 ?>
 
-<h1>View Liga #<?php echo $model->id_liga; ?></h1>
+<h1>Liga <?php echo $model->nombre; ?></h1>
 
 <?php $this->widget('zii.widgets.CDetailView', array(
 	'data'=>$model,
 	'attributes'=>array(
-		'id_liga',
+		#'id_liga',
 		'nombre',
 	),
 )); ?>

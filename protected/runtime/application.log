@@ -90,3 +90,1520 @@ Stack trace:
 REQUEST_URI=/futbol/site/equipo?view=about
 HTTP_REFERER=http://localhost/futbol/
 ---
+2013/11/14 12:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426855922
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:00:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426857231
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:00:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426857408
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:00:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426857560
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:00:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426857736
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:01:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426871958
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:01:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426878466
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:01:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426880117
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:01:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426881648
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:03:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426989495
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:03:15 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384426995100
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:03:54 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384427034206
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:04:51 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384427091023
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:05:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384427100200
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:06:32 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384427192688
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:06:34 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384427194847
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:06:36 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384427196351
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:06:39 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384427199742
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:09:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384427344638
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:43:44 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384429424910
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 12:43:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\htdocs\yii\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/ejemplor...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/futbol/equipo/ejemplorecibe?_=1384429430159
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 13:14:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/l...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/loading.gif
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 13:32:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loding.gif".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/loding.g...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/loding.gif
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/14 13:36:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/loading.gif
+HTTP_REFERER=http://localhost/futbol/equipo/ejemplo
+---
+2013/11/15 04:00:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "narrador".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('narrador')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/narrador
+HTTP_REFERER=http://localhost/futbol/
+---
+2013/11/15 04:00:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "narrador".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('narrador')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/narrador
+---
+2013/11/15 04:00:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "narrador".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('narrador')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/narrador
+---
+2013/11/15 04:04:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('narracion/ejemp...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/narracion/ejemplorecibe?_=1384484651812
+HTTP_REFERER=http://localhost/futbol/narracion
+---
+2013/11/15 04:04:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ejemplorecibe".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('ejemplorecibe')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('ejemplorecibe')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('narracion/ejemp...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/narracion/ejemplorecibe?_=1384484656593
+HTTP_REFERER=http://localhost/futbol/narracion
+---
+2013/11/15 04:25:47 [error] [php] Array to string conversion (C:\xampp\htdocs\futbol\protected\views\equipo\_view.php:13)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\zii\widgets\CListView.php(291): EquipoController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(167): CListView->renderItems()
+#2 unknown(0): CListView->renderSection()
+#3 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(150): preg_replace_callback()
+#4 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(135): CListView->renderContent()
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(173): CListView->run()
+#6 C:\xampp\htdocs\futbol\protected\views\equipo\index.php(20): EquipoController->widget()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#8 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): EquipoController->renderInternal()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(869): EquipoController->renderFile()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(782): EquipoController->renderPartial()
+#11 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(128): EquipoController->render()
+#12 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): EquipoController->actionIndex()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#14 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): EquipoController->runAction()
+#15 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#17 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): EquipoController->filterAccessControl()
+#18 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#19 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\yii\framework\web\CController.php(265): EquipoController->runActionWithFilters()
+#21 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): EquipoController->run()
+#22 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#23 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\futbol\index.php(13): CWebApplication->run()
+REQUEST_URI=/futbol/equipo
+in C:\xampp\htdocs\futbol\protected\views\equipo\_view.php (13)
+in C:\xampp\htdocs\futbol\protected\views\equipo\index.php (20)
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (128)
+2013/11/15 04:28:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/americadecali.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/a...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:28:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticoindependiente.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:28:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:28:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubdeportivoatleticohuila.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:28:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubdeportivoatleticohuila.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:28:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/americadecali.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/a...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:28:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticoindependiente.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:28:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:28:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+---
+2013/11/15 04:30:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+---
+2013/11/15 04:32:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+---
+2013/11/15 04:33:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+---
+2013/11/15 04:34:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+---
+2013/11/15 04:34:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+---
+2013/11/15 04:35:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/americadecali.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/a...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:35:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticoindependiente.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:35:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubatleticobocajuniors.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:35:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/clubdeportivoatleticohuila.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 04:40:45 [error] [php] include(Chtml.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\futbol\protected\views\equipo\view.php(31): spl_autoload_call()
+#1 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): EquipoController->renderInternal()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(869): EquipoController->renderFile()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(782): EquipoController->renderPartial()
+#5 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(56): EquipoController->render()
+#6 unknown(0): EquipoController->actionView()
+#7 C:\xampp\htdocs\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#8 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): EquipoController->runAction()
+#11 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): EquipoController->filterAccessControl()
+#14 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(265): EquipoController->runActionWithFilters()
+#17 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): EquipoController->run()
+#18 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\futbol\index.php(13): CWebApplication->run()
+REQUEST_URI=/futbol/equipo/1
+in C:\xampp\htdocs\futbol\protected\views\equipo\view.php (31)
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (56)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 04:41:45 [error] [php] include(Chtml.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\futbol\protected\views\equipo\view.php(31): spl_autoload_call()
+#1 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): EquipoController->renderInternal()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(869): EquipoController->renderFile()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(782): EquipoController->renderPartial()
+#5 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(56): EquipoController->render()
+#6 unknown(0): EquipoController->actionView()
+#7 C:\xampp\htdocs\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#8 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): EquipoController->runAction()
+#11 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): EquipoController->filterAccessControl()
+#14 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(265): EquipoController->runActionWithFilters()
+#17 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): EquipoController->run()
+#18 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\futbol\index.php(13): CWebApplication->run()
+REQUEST_URI=/futbol/equipo/1
+in C:\xampp\htdocs\futbol\protected\views\equipo\view.php (31)
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (56)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 04:41:57 [error] [php] include(Chtml.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\futbol\protected\views\equipo\view.php(31): spl_autoload_call()
+#1 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): EquipoController->renderInternal()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(869): EquipoController->renderFile()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(782): EquipoController->renderPartial()
+#5 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(56): EquipoController->render()
+#6 unknown(0): EquipoController->actionView()
+#7 C:\xampp\htdocs\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#8 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): EquipoController->runAction()
+#11 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): EquipoController->filterAccessControl()
+#14 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(265): EquipoController->runActionWithFilters()
+#17 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): EquipoController->run()
+#18 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\futbol\index.php(13): CWebApplication->run()
+REQUEST_URI=/futbol/equipo/1
+in C:\xampp\htdocs\futbol\protected\views\equipo\view.php (31)
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (56)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 04:42:28 [error] [php] include(Chtml.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\futbol\protected\views\equipo\view.php(31): spl_autoload_call()
+#1 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): EquipoController->renderInternal()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(869): EquipoController->renderFile()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(782): EquipoController->renderPartial()
+#5 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(56): EquipoController->render()
+#6 unknown(0): EquipoController->actionView()
+#7 C:\xampp\htdocs\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#8 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): EquipoController->runAction()
+#11 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): EquipoController->filterAccessControl()
+#14 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(265): EquipoController->runActionWithFilters()
+#17 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): EquipoController->run()
+#18 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\futbol\index.php(13): CWebApplication->run()
+REQUEST_URI=/futbol/equipo/1
+in C:\xampp\htdocs\futbol\protected\views\equipo\view.php (31)
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (56)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 04:43:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/1
+---
+2013/11/15 04:43:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/1
+---
+2013/11/15 04:43:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+---
+2013/11/15 04:43:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/2
+---
+2013/11/15 04:43:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/2
+---
+2013/11/15 04:44:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/2
+---
+2013/11/15 04:45:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 04:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 04:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 04:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 04:45:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 04:45:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 04:45:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 04:45:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 04:51:26 [error] [php] Array to string conversion (C:\xampp\htdocs\futbol\protected\views\equipo\_view.php:23)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\zii\widgets\CListView.php(291): EquipoController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(167): CListView->renderItems()
+#2 unknown(0): CListView->renderSection()
+#3 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(150): preg_replace_callback()
+#4 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(135): CListView->renderContent()
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(173): CListView->run()
+#6 C:\xampp\htdocs\futbol\protected\views\equipo\index.php(20): EquipoController->widget()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#8 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): EquipoController->renderInternal()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(869): EquipoController->renderFile()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(782): EquipoController->renderPartial()
+#11 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(128): EquipoController->render()
+#12 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): EquipoController->actionIndex()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#14 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): EquipoController->runAction()
+#15 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#17 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): EquipoController->filterAccessControl()
+#18 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#19 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\yii\framework\web\CController.php(265): EquipoController->runActionWithFilters()
+#21 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): EquipoController->run()
+#22 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#23 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\futbol\index.php(13): CWebApplication->run()
+REQUEST_URI=/futbol/equipo/index
+in C:\xampp\htdocs\futbol\protected\views\equipo\_view.php (23)
+in C:\xampp\htdocs\futbol\protected\views\equipo\index.php (20)
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (128)
+2013/11/15 05:02:24 [error] [php] Array to string conversion (C:\xampp\htdocs\futbol\protected\views\equipo\_view.php:8)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\zii\widgets\CListView.php(291): EquipoController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(167): CListView->renderItems()
+#2 unknown(0): CListView->renderSection()
+#3 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(150): preg_replace_callback()
+#4 C:\xampp\htdocs\yii\framework\zii\widgets\CBaseListView.php(135): CListView->renderContent()
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(173): CListView->run()
+#6 C:\xampp\htdocs\futbol\protected\views\equipo\index.php(20): EquipoController->widget()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#8 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): EquipoController->renderInternal()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(869): EquipoController->renderFile()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(782): EquipoController->renderPartial()
+#11 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(128): EquipoController->render()
+#12 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): EquipoController->actionIndex()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#14 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): EquipoController->runAction()
+#15 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#17 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): EquipoController->filterAccessControl()
+#18 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#19 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\yii\framework\web\CController.php(265): EquipoController->runActionWithFilters()
+#21 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): EquipoController->run()
+#22 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#23 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\futbol\index.php(13): CWebApplication->run()
+REQUEST_URI=/futbol/equipo/index
+in C:\xampp\htdocs\futbol\protected\views\equipo\_view.php (8)
+in C:\xampp\htdocs\futbol\protected\views\equipo\index.php (20)
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (128)
+2013/11/15 09:18:02 [error] [exception.CException] exception 'CException' with message 'EquipoController contains improperly nested widget tags in its view "C:\xampp\htdocs\futbol\protected\views\equipo\_form.php". A CActiveForm widget does not have an endWidget() call.' in C:\xampp\htdocs\yii\framework\web\CBaseController.php:101
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#1 C:\xampp\htdocs\futbol\protected\views\equipo\create.php(18): CController->renderPartial('_form', Array)
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#6 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(79): CController->render('create', Array)
+#7 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): EquipoController->actionCreate()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#17 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/create')
+#18 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/futbol/equipo/create
+---
+2013/11/15 09:22:25 [error] [exception.CException] exception 'CException' with message 'EquipoController contains improperly nested widget tags in its view "C:\xampp\htdocs\futbol\protected\views\equipo\create.php". A CActiveForm widget does not have an endWidget() call.' in C:\xampp\htdocs\yii\framework\web\CBaseController.php:101
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#2 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(79): CController->render('create', Array)
+#3 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): EquipoController->actionCreate()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/create')
+#14 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/futbol/equipo/create
+---
+2013/11/15 09:23:01 [error] [exception.CException] exception 'CException' with message 'EquipoController contains improperly nested widget tags in its view "C:\xampp\htdocs\futbol\protected\views\equipo\create.php". A CActiveForm widget does not have an endWidget() call.' in C:\xampp\htdocs\yii\framework\web\CBaseController.php:101
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#2 C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php(79): CController->render('create', Array)
+#3 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): EquipoController->actionCreate()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/create')
+#14 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/futbol/equipo/create
+---
+2013/11/15 09:29:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/1
+---
+2013/11/15 09:29:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:29:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:30:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticobocajuniors.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubdeportivoatleticohuila.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/americadecali.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('equipo/images/e...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/futbol/equipo/images/escudo/clubatleticoindependiente.jpg
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 09:40:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "banner".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('banner')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/banner/
+HTTP_REFERER=http://localhost/futbol/equipo/create
+---
+2013/11/15 09:41:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "banner".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('banner')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/banner/
+HTTP_REFERER=http://localhost/futbol/equipo/create
+---
+2013/11/15 09:57:16 [warning] [application] Failed to set unsafe attribute "foto" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 09:58:13 [warning] [application] Failed to set unsafe attribute "foto" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 09:58:52 [warning] [application] Failed to set unsafe attribute "foto" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (96)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:01:43 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:06:56 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:06:56 [error] [php] Undefined index: ImagenForm (C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php:74)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): EquipoController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): EquipoController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): EquipoController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): EquipoController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\futbol\index.php(13): CWebApplication->run()
+REQUEST_URI=/futbol/equipo/create
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (74)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:07:50 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:08:33 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:11:42 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:12:27 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:12:28 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:13:00 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:13:15 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:13:58 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:14:53 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (72)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:17:42 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (110)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:17:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/escudo".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/e...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/escudo
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 10:23:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/escudo".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/e...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/escudo
+HTTP_REFERER=http://localhost/futbol/equipo/index
+---
+2013/11/15 10:23:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/escudo".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/e...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/escudo
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 10:24:38 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (110)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:26:19 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (110)
+in C:\xampp\htdocs\futbol\index.php (13)
+2013/11/15 10:28:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/escudo".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/e...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/escudo
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 10:28:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/escudo".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/e...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/escudo
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 10:30:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/escudo/escudo".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/escudo/e...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\futbol\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/futbol/images/escudo/escudo
+HTTP_REFERER=http://localhost/futbol/equipo
+---
+2013/11/15 10:31:20 [warning] [application] Failed to set unsafe attribute "imagen" of "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (110)
+in C:\xampp\htdocs\futbol\index.php (13)

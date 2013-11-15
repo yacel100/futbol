@@ -8,11 +8,15 @@
 
 <?php $form=$this->beginWidget('CActiveForm', array(
 	'id'=>'equipo-form',
+	'enableClientValidation'=>false,
+	'htmlOptions'=>array('enctype'=>'multipart/form-data'),
+	'clientOptions'=>array(
+		'validateOnSubmit'=>true,
 	// Please note: When you enable ajax validation, make sure the corresponding
 	// controller action is handling ajax validation correctly.
 	// There is a call to performAjaxValidation() commented in generated controller code.
 	// See class documentation of CActiveForm for details on this.
-	'enableAjaxValidation'=>false,
+	),
 )); ?>
 
 	<p class="note">Fields with <span class="required">*</span> are required.</p>
@@ -38,17 +42,17 @@
 	</div>
 
 	<div class="row">
-		<?php echo $form->labelEx($model,'imagen'); ?>
-		<?php echo $form->textField($model,'imagen',array('size'=>60,'maxlength'=>100)); ?>
-		<?php echo $form->error($model,'imagen'); ?>
-	</div>
-
-	<div class="row">
 		<?php echo $form->labelEx($model,'comentario'); ?>
 		<?php echo $form->textArea($model,'comentario',array('rows'=>6, 'cols'=>50)); ?>
 		<?php echo $form->error($model,'comentario'); ?>
 	</div>
-
+	
+	<div class="row">
+		<?php echo $form->labelEx($model,'imagen'); ?>
+		<?php echo $form->fileField($model,'imagen'); ?>
+		<?php echo $form->error($model,'imagen'); ?>
+	</div>
+	
 	<div class="row buttons">
 		<?php echo CHtml::submitButton($model->isNewRecord ? 'Create' : 'Save'); ?>
 	</div>

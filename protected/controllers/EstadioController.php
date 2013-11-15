@@ -70,7 +70,8 @@ class EstadioController extends Controller
 		if(isset($_POST['Estadio']))
 		{
 			$model->attributes=$_POST['Estadio'];
-			if($model->save())
+			
+			if($model->save())			
 				$this->redirect(array('view','id'=>$model->id_estadio));
 		}
 

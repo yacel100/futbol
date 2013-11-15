@@ -35,13 +35,14 @@ class Equipo extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('nombre, estrellas, fundacion, imagen', 'required'),
+			array('imagen', 'file','types'=>'jpg, gif, png', 'allowEmpty'=>true, 'on'=>'update'), 
+			array('nombre, estrellas, fundacion', 'required'),
 			array('estrellas, fundacion', 'numerical', 'integerOnly'=>true),
-			array('nombre, imagen', 'length', 'max'=>100),
+			array('nombre', 'length', 'max'=>100),
 			array('comentario', 'safe'),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('id_equipo, nombre, estrellas, fundacion, imagen, comentario', 'safe', 'on'=>'search'),
+			array('id_equipo, nombre, estrellas, fundacion, comentario', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -70,7 +71,7 @@ class Equipo extends CActiveRecord
 			'nombre' => 'Nombre',
 			'estrellas' => 'Estrellas',
 			'fundacion' => 'Fundacion',
-			'imagen' => 'Imagen',
+			'imagen' => 'Escudo',
 			'comentario' => 'Comentario',
 		);
 	}

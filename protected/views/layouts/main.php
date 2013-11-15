@@ -31,7 +31,9 @@
 			'items'=>array(
 				array('label'=>'Home', 'url'=>array('/site/index')),
 				array('label'=>'Equipo', 'url'=>array('/equipo')),
-				array('label'=>'Liga', 'url'=>array('/liga')),
+				array('label'=>'Ligas', 'url'=>array('/liga')),
+				array('label'=>'Narrador', 'url'=>array('/narracion')),
+				array('label'=>'No se todavia', 'url'=>array('/')),
 				array('label'=>'About', 'url'=>array('/site/page')),
 				array('label'=>'Contact', 'url'=>array('/site/contact')),
 				array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),

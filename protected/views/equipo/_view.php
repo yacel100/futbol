@@ -5,12 +5,14 @@
 
 <div class="view">
 
-	<b><?php echo CHtml::encode($data->getAttributeLabel('id_equipo')); ?>:</b>
-	<?php echo CHtml::link(CHtml::encode($data->id_equipo), array('view', 'id'=>$data->id_equipo)); ?>
+	<center><?php echo CHtml::encode($data->nombre);  ?>
 	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('nombre')); ?>:</b>
-	<?php echo CHtml::encode($data->nombre); ?>
+	
+	<?php
+		$data->imagen = str_replace(' ','%20',$data->imagen); //Quitar espacios en blanco por %20
+	?>
+	
+	<img src=<?php echo CHtml::encode(Yii::app()->request->baseUrl."/".$data->imagen); ?>>
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('estrellas')); ?>:</b>
@@ -20,13 +22,10 @@
 	<b><?php echo CHtml::encode($data->getAttributeLabel('fundacion')); ?>:</b>
 	<?php echo CHtml::encode($data->fundacion); ?>
 	<br />
+	
+	</center>	
 
-	<b><?php echo CHtml::encode($data->getAttributeLabel('imagen')); ?>:</b>
-	<?php echo CHtml::encode($data->imagen); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('comentario')); ?>:</b>
-	<?php echo CHtml::encode($data->comentario); ?>
+	<div align="right"><?php echo CHtml::link(CHtml::encode('Detalles'), array('view', 'id'=>$data->id_equipo));  ?></div>
 	<br />
 
 

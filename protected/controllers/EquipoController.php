@@ -28,7 +28,7 @@ class EquipoController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('index','view'),
+				'actions'=>array('index','view','ejemplo','ejemplorecibe'),
 				'users'=>array('*'),
 			),
 			array('allow', // allow authenticated user to perform 'create' and 'update' actions
@@ -70,8 +70,22 @@ class EquipoController extends Controller
 		if(isset($_POST['Equipo']))
 		{
 			$model->attributes=$_POST['Equipo'];
-			if($model->save())
-				$this->redirect(array('view','id'=>$model->id_equipo));
+			
+			if(isset($_FILES) and $_FILES['Equipo']['error']['imagen']==0)
+			{
+				$uf = CUploadedFile::getInstance($model, 'imagen');
+				if($uf->getExtensionName() == "jpg" || $uf->getExtensionName() == "png" ||
+				$uf->getExtensionName() == "jpeg" || $uf->getExtensionName()== "gif")
+				{
+					$uf->saveAs(Yii::getPathOfAlias('webroot').'/images/escudo/'.$uf->getName());
+					$model->imagen = 'images/escudo/'.$uf->getName();
+					if($model->save())
+						$this->redirect(array('view','id'=>$model->id_equipo));
+					#$this->refresh();
+				}else{
+					Yii::app()->user->setFlash('error_imagen','Imagen no valida');
+				}			
+			}
 		}
 
 		$this->render('create',array(
@@ -94,8 +108,25 @@ class EquipoController extends Controller
 		if(isset($_POST['Equipo']))
 		{
 			$model->attributes=$_POST['Equipo'];
+			
+			if(isset($_FILES) and $_FILES['Equipo']['error']['imagen']==0)
+			{
+				$uf = CUploadedFile::getInstance($model, 'imagen');
+				if($uf->getExtensionName() == "jpg" || $uf->getExtensionName() == "png" ||
+				$uf->getExtensionName() == "jpeg" || $uf->getExtensionName()== "gif")
+				{
+					$uf->saveAs(Yii::getPathOfAlias('webroot').'/images/escudo/'.$uf->getName());
+					$model->imagen = 'images/escudo/'.$uf->getName();
+					if($model->save())
+						$this->redirect(array('view','id'=>$model->id_equipo));
+					#$this->refresh();
+				}else{
+					Yii::app()->user->setFlash('error_imagen','Imagen no valida');
+				}
+			}
+			/*$model->attributes=$_POST['Equipo'];
 			if($model->save())
-				$this->redirect(array('view','id'=>$model->id_equipo));
+				$this->redirect(array('view','id'=>$model->id_equipo));*/
 		}
 
 		$this->render('update',array(
@@ -170,4 +201,5 @@ class EquipoController extends Controller
 			Yii::app()->end();
 		}
 	}
+	
 }

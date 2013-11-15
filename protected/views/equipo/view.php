@@ -16,16 +16,20 @@ $this->menu=array(
 );
 ?>
 
-<h1>View Equipo #<?php echo $model->id_equipo; ?></h1>
+<h1><?php echo $model->nombre; ?></h1>
 
 <?php $this->widget('zii.widgets.CDetailView', array(
 	'data'=>$model,
 	'attributes'=>array(
-		'id_equipo',
-		'nombre',
+		#'id_equipo',
+		#'nombre',
 		'estrellas',
 		'fundacion',
-		'imagen',
+		array(
+			'label'=>'Escudo',
+			'type'=>'raw',
+			'value'=>CHtml::image("../".$model->imagen),
+		),
 		'comentario',
 	),
 )); ?>
