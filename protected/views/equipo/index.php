@@ -1,14 +1,15 @@
 <?php
 /* @var $this EquipoController */
 /* @var $dataProvider CActiveDataProvider */
-
+/*/
 $this->breadcrumbs=array(
 	'Equipos',
 );
+/**/
 
 $this->menu=array(
 	array('label'=>'Create Equipo', 'url'=>array('create')),
-	array('label'=>'Manage Equipo', 'url'=>array('admin')),
+	#array('label'=>'Manage Equipo', 'url'=>array('admin')),
 );
 ?>
 

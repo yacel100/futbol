@@ -1,12 +1,12 @@
 <?php
 /* @var $this LigaController */
 /* @var $model Liga */
-
+/*/
 $this->breadcrumbs=array(
 	'Ligas'=>array('index'),
 	$model->id_liga,
 );
-
+/**/
 $this->menu=array(
 	array('label'=>'List Liga', 'url'=>array('index')),
 	array('label'=>'Create Liga', 'url'=>array('create')),

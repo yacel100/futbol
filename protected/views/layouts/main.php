@@ -29,14 +29,14 @@
 	<div id="mainmenu">
 		<?php $this->widget('zii.widgets.CMenu',array(
 			'items'=>array(
-				array('label'=>'Home', 'url'=>array('/site/index')),
-				array('label'=>'Equipo', 'url'=>array('/equipo')),
-				array('label'=>'Ligas', 'url'=>array('/liga')),
-				array('label'=>'Narrador', 'url'=>array('/narracion')),
-				array('label'=>'No se todavia', 'url'=>array('/')),
-				array('label'=>'About', 'url'=>array('/site/page')),
-				array('label'=>'Contact', 'url'=>array('/site/contact')),
-				array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
+				array('label'=>'Home', 'url'=>array('/site/index'), 'visible'=>Yii::app()->user->isGuest),
+				array('label'=>'Equipo', 'url'=>array('/equipo'), 'visible'=>!Yii::app()->user->isGuest),
+				array('label'=>'Ligas', 'url'=>array('/liga'), 'visible'=>!Yii::app()->user->isGuest),
+				array('label'=>'Narrador', 'url'=>array('/narracion'), 'visible'=>!Yii::app()->user->isGuest),
+				#array('label'=>'No se todavia', 'url'=>array('/')),
+				#array('label'=>'About', 'url'=>array('/site/page'), 'visible'=>!Yii::app()->user->isGuest),
+				#array('label'=>'Contact', 'url'=>array('/site/contact'), 'visible'=>!Yii::app()->user->isGuest),
+				#array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
 				array('label'=>'Logout ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest)
 			),
 		)); ?>

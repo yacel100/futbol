@@ -1,10 +1,11 @@
 <?php
 /* @var $this EstadioController */
 /* @var $dataProvider CActiveDataProvider */
-
+/*/
 $this->breadcrumbs=array(
 	'Estadios',
 );
+/**/
 
 $this->menu=array(
 	array('label'=>'Create Estadio', 'url'=>array('create')),

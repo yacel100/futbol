@@ -8,6 +8,7 @@
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'Futbol',
+	'language'=>'es',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
@@ -58,6 +59,9 @@ return array(
 			'username' => 'root',
 			'password' => '',
 			'charset' => 'utf8',
+		),
+		'coreMessage'=>array(
+			'basePath'=>'protected/messages',
 		),
 		'errorHandler'=>array(
 			// use 'site/error' action to display errors

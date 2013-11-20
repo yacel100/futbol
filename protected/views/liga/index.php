@@ -1,10 +1,11 @@
 <?php
 /* @var $this LigaController */
 /* @var $dataProvider CActiveDataProvider */
-
+/*/
 $this->breadcrumbs=array(
 	'Ligas',
 );
+/**/
 
 $this->menu=array(
 	array('label'=>'Create Liga', 'url'=>array('create')),

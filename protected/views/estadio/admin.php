@@ -1,12 +1,12 @@
 <?php
 /* @var $this EstadioController */
 /* @var $model Estadio */
-
+/*/
 $this->breadcrumbs=array(
 	'Estadios'=>array('index'),
 	'Manage',
 );
-
+/**/
 $this->menu=array(
 	array('label'=>'List Estadio', 'url'=>array('index')),
 	array('label'=>'Create Estadio', 'url'=>array('create')),

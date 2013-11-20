@@ -1,11 +1,12 @@
 <?php
 /* @var $this EquipoController */
 /* @var $model Equipo */
-
+/*/
 $this->breadcrumbs=array(
 	'Equipos'=>array('index'),
 	'Manage',
 );
+/**/
 
 $this->menu=array(
 	array('label'=>'List Equipo', 'url'=>array('index')),

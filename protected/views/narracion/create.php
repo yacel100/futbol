@@ -1,12 +1,12 @@
 <?php
 /* @var $this NarracionController */
 /* @var $model Narracion */
-
+/*/
 $this->breadcrumbs=array(
 	'Narracions'=>array('index'),
 	'Create',
 );
-
+/**/
 $this->menu=array(
 	array('label'=>'List Narracion', 'url'=>array('index')),
 	array('label'=>'Manage Narracion', 'url'=>array('admin')),

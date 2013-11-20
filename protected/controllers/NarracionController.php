@@ -123,8 +123,18 @@ class NarracionController extends Controller
 	public function actionIndex()
 	{
 		$dataProvider=new CActiveDataProvider('Narracion');
+
+		#$mEquipo=Equipo::model()->findAll();
+
+		$sql = 'SELECT id_encuentro, upper(equipo.nombre) AS local, upper(equipo1.nombre) AS visitante 
+				FROM encuentro INNER JOIN equipo ON ( encuentro.id_equipo_local = equipo.id_equipo ) 
+				INNER JOIN equipo equipo1 ON ( encuentro.id_equipo_visitante = equipo1.id_equipo)';
+
+		$mEquipo= Yii::app()->db->createCommand($sql)->queryAll();
+
 		$this->render('index',array(
 			'dataProvider'=>$dataProvider,
+			'Equipos'=>$mEquipo,
 		));
 	}
 
@@ -172,7 +182,17 @@ class NarracionController extends Controller
 	}
 	
 	public function actionNarracion() {
-		sleep(2);	//Tardara en mostrarse 2 segundos
-		echo Date('d/m/Y H:i:s');
+		$model=Narracion::model();
+		$mEquipo = Equipo::model();
+
+		echo "<pre>";
+		echo var_dump($mEquipo->findAll());
+
+		/*for (var i = 0; i <= datos.length; i++) 
+		{
+			opciones.append("<option value = " + datos[i].id_encuentro + ">" + datos[i].local + " vs." + datos[i].visitante + "</option>");
+		}*/
+		#sleep(2);	//Tardara en mostrarse 2 segundos
+		#echo Date('d/m/Y H:i:s');
 	}
 }
