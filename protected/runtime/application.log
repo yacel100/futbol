@@ -2857,3 +2857,6 @@ Stack trace:
 REQUEST_URI=/futbol/equipo/admin
 HTTP_REFERER=http://localhost/futbol/equipo/create
 ---
+2013/11/21 00:57:20 [warning] [application] Error al establecer unsafe al atributo "imagen" de "Equipo".
+in C:\xampp\htdocs\futbol\protected\controllers\EquipoController.php (110)
+in C:\xampp\htdocs\futbol\index.php (13)

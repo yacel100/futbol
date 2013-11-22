@@ -1,6 +1,6 @@
 <?php
 
-class NarracionController extends Controller
+class UsersController extends Controller
 {
 	/**
 	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
@@ -28,11 +28,15 @@ class NarracionController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
+				#'controllers'=>array('users'),
 				'actions'=>array(),
-				'users'=>array('*'),
+				#'users'=>array('*'),
+				#'ip'=>array(''),
+				#'verbs'=>array('GET'),
+				#'roles'=>array('super'),
 			),
 			array('allow', // allow authenticated user to perform 'create' and 'update' actions
-				'actions'=>array('index','view','narracion','create','update'),
+				'actions'=>array('index','create','update','view'),
 				'users'=>array('@'),
 			),
 			array('allow', // allow admin user to perform 'admin' and 'delete' actions
@@ -62,16 +66,16 @@ class NarracionController extends Controller
 	 */
 	public function actionCreate()
 	{
-		$model=new Narracion;
+		$model=new Users;
 
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
-		if(isset($_POST['Narracion']))
+		if(isset($_POST['Users']))
 		{
-			$model->attributes=$_POST['Narracion'];
+			$model->attributes=$_POST['Users'];
 			if($model->save())
-				$this->redirect(array('view','id'=>$model->id_narracion));
+				$this->redirect(array('view','id'=>$model->id));
 		}
 
 		$this->render('create',array(
@@ -91,11 +95,11 @@ class NarracionController extends Controller
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
-		if(isset($_POST['Narracion']))
+		if(isset($_POST['Users']))
 		{
-			$model->attributes=$_POST['Narracion'];
+			$model->attributes=$_POST['Users'];
 			if($model->save())
-				$this->redirect(array('view','id'=>$model->id_narracion));
+				$this->redirect(array('view','id'=>$model->id));
 		}
 
 		$this->render('update',array(
@@ -122,19 +126,9 @@ class NarracionController extends Controller
 	 */
 	public function actionIndex()
 	{
-		$dataProvider=new CActiveDataProvider('Narracion');
-
-		#$mEquipo=Equipo::model()->findAll();
-
-		$sql = 'SELECT id_encuentro, upper(equipo.nombre) AS local, upper(equipo1.nombre) AS visitante 
-				FROM encuentro INNER JOIN equipo ON ( encuentro.id_equipo_local = equipo.id_equipo ) 
-				INNER JOIN equipo equipo1 ON ( encuentro.id_equipo_visitante = equipo1.id_equipo)';
-
-		$mEquipo= Yii::app()->db->createCommand($sql)->queryAll();
-
+		$dataProvider=new CActiveDataProvider('Users');
 		$this->render('index',array(
 			'dataProvider'=>$dataProvider,
-			'Equipos'=>$mEquipo,
 		));
 	}
 
@@ -143,10 +137,10 @@ class NarracionController extends Controller
 	 */
 	public function actionAdmin()
 	{
-		$model=new Narracion('search');
+		$model=new Users('search');
 		$model->unsetAttributes();  // clear any default values
-		if(isset($_GET['Narracion']))
-			$model->attributes=$_GET['Narracion'];
+		if(isset($_GET['Users']))
+			$model->attributes=$_GET['Users'];
 
 		$this->render('admin',array(
 			'model'=>$model,
@@ -157,12 +151,12 @@ class NarracionController extends Controller
 	 * Returns the data model based on the primary key given in the GET variable.
 	 * If the data model is not found, an HTTP exception will be raised.
 	 * @param integer $id the ID of the model to be loaded
-	 * @return Narracion the loaded model
+	 * @return Users the loaded model
 	 * @throws CHttpException
 	 */
 	public function loadModel($id)
 	{
-		$model=Narracion::model()->findByPk($id);
+		$model=Users::model()->findByPk($id);
 		if($model===null)
 			throw new CHttpException(404,'The requested page does not exist.');
 		return $model;
@@ -170,29 +164,14 @@ class NarracionController extends Controller
 
 	/**
 	 * Performs the AJAX validation.
-	 * @param Narracion $model the model to be validated
+	 * @param Users $model the model to be validated
 	 */
 	protected function performAjaxValidation($model)
 	{
-		if(isset($_POST['ajax']) && $_POST['ajax']==='narracion-form')
+		if(isset($_POST['ajax']) && $_POST['ajax']==='users-form')
 		{
 			echo CActiveForm::validate($model);
 			Yii::app()->end();
 		}
-	}
-	
-	public function actionNarracion() {
-		$model=Narracion::model();
-		$mEquipo = Equipo::model();
-
-		echo "<pre>";
-		echo var_dump($mEquipo->findAll());
-
-		/*for (var i = 0; i <= datos.length; i++) 
-		{
-			opciones.append("<option value = " + datos[i].id_encuentro + ">" + datos[i].local + " vs." + datos[i].visitante + "</option>");
-		}*/
-		#sleep(2);	//Tardara en mostrarse 2 segundos
-		#echo Date('d/m/Y H:i:s');
 	}
 }
